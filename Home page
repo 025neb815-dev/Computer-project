@@ -1,8 +1,10 @@
 <html>
 <head>
-<link rel="stylesheet" href="">
+<link rel="stylesheet" href="Kiran.css">
 <title > Home</title>
 <head>
 <body>
+<h1>RTB</h1>
+<p>Shop of cakes for all occassions.</p>
 </body>
 </html>
