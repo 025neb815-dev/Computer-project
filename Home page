@@ -6,5 +6,30 @@
 <body>
 <h1>RTB</h1>
 <p>Shop of cakes for all occassions.</p>
+<div>
+<img src="https://i0.wp.com/sugarspiceslife.com/wp-content/uploads/2018/05/Lemon-Strawberry-Cake-1-1.jpg?resize=683%2C1024&ssl=1" alt="Strawberry cake" style="width:500px;height:600px;">
+<img src="" alt="Chocolate cake" style="width:500px;height:600px;">
+<img src="" alt="Vanilla" style="width:500px;height:600px;">
+<img src="" alt="Butterscotch cake" style="width:500px;height:600px;">
+</div>
+<div>
+<img src="" alt="Red velvet" style="width:500px;height:600px;">
+<img src="" alt="Black forest" style="width:500px;height:600px;">
+<img src="" alt="Blueberry" style="width:500px;height:600px;">
+<img src="" alt="Mango" style="width:500px;height:600px;">
+</div>
+<div>
+<img src="" alt="Coffee cake" style="width:500px;height:600px;">
+<img src="" alt="White forest" style="width:500px;height:600px;">
+<img src="" alt="Cardamon cake" style="width:500px;height:600px;">
+<img src="" alt="Oreo/Dough cookie" style="width:500px;height:600px;">
+</div>
+<div>
+<img src="" alt="Salted Caramel:" style="width:500px;height:600px;">
+<img src="" alt="Ferrero Rocher:" style="width:500px;height:600px;">
+<img src="" alt="Lemon " style="width:500px;height:600px;">
+<img src="" alt="Passion fruit" style="width:500px;height:600px;">
+</div>
+
 </body>
 </html>
