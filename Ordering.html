@@ -1,5 +1,69 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>ORDERING SITE</title>
-  </head>
+<head>
+    <title>Order Cake</title>
+    <link rel="stylesheet" href="Kiran.css">
+</head>
+
+<body>
+
+    <h1>Order Your Cake</h1>
+
+    <form action="#" method="post">
+
+        
+        <label for="size">Select Cake Size (in pounds):</label><br>
+        <select id="size" name="size" required>
+            <option value="">--Choose Size--</option>
+            <option value="0.5">0.5 Pound</option>
+            <option value="1">1 Pound</option>
+            <option value="1.5">1.5 Pounds</option>
+            <option value="2">2 Pounds</option>
+            <option value="2.5">2.5 Pounds</option>
+            <option value="3">3 Pounds</option>
+        </select>
+
+        <br><br>
+
+      
+        <label for="flavor">Select Cake Flavor:</label><br>
+        <select id="flavor" name="flavor" required>
+            <option value="">--Choose Flavor--</option>
+            <option value="Strawberry">Strawberry</option>
+            <option value="Chocolate">Chocolate</option>
+            <option value="Vanilla">Vanilla</option>
+            <option value="Butterscotch">Butterscotch</option>
+            <option value="Red Velvet">Red Velvet</option>
+            <option value="Black Forest">Black Forest</option>
+            <option value="Blueberry">Blueberry</option>
+            <option value="Mango">Mango</option>
+            <option value="Coffee">Coffee</option>
+            <option value="White Forest">White Forest</option>
+            <option value="Cardamom">Cardamom</option>
+            <option value="Oreo/Dough Cookie">Oreo/Dough Cookie</option>
+            <option value="Salted Caramel">Salted Caramel</option>
+            <option value="Ferrero Rocher">Ferrero Rocher</option>
+            <option value="Lemon">Lemon</option>
+            <option value="Passion Fruit">Passion Fruit</option>
+        </select>
+
+        <br><br>
+
+    
+        <label for="message">Custom Message on Cake:</label><br>
+        <input type="text" id="message" name="message" placeholder="e.g. Happy Birthday!">
+
+        <br><br>
+
+
+        <button type="submit">Place Order</button>
+
+    </form>
+
+    <br>
+
+   
+    <a href="Home page.html">← Back to Home</a>
+
+</body>
 </html>
